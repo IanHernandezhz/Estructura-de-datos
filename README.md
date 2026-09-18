@@ -1,0 +1,1 @@
+intrucciones generales del proyecto
